@@ -11,7 +11,7 @@ export default function About() {
           className="text-center mb-12"
         >
           <h1 className="text-4xl font-bold text-gray-900">Our Story</h1>
-          <p className="mt-4 text-xl text-gray-600">Brewing happiness since 2010</p>
+          <p className="mt-4 text-xl text-gray-600">A Journey of Passion and Innovation</p>
         </motion.div>
 
         <div className="grid md:grid-cols-2 gap-8 mb-12">
@@ -32,12 +32,12 @@ export default function About() {
             animate={{ opacity: 1, x: 0 }}
             className="flex flex-col justify-center"
           >
-            <h2 className="text-3xl font-bold text-gray-900 mb-4">Our Mission</h2>
+            <h2 className="text-3xl font-bold text-gray-900 mb-4">Meet Our Founder</h2>
             <p className="text-gray-600 mb-6">
-              At Café Delight, we believe in creating more than just great coffee. We're passionate about crafting memorable experiences, fostering community connections, and serving up moments of joy with every cup we pour.
+              Praveen, the visionary founder of The Amigos, brings over a decade of passion for coffee and community building. With a background in engineering and an unwavering commitment to quality, he transformed his love for coffee into a welcoming space where people can connect, create, and enjoy exceptional beverages.
             </p>
             <p className="text-gray-600">
-              Founded in 2010, our café has grown from a small corner shop into a beloved community hub, thanks to our dedication to quality, sustainability, and exceptional service.
+              Starting from a small corner shop in West Bengal, Praveen's dedication to sourcing the finest beans and creating innovative coffee experiences has made The Amigos a beloved destination for coffee enthusiasts and casual visitors alike. His philosophy of "community first" has shaped every aspect of our café, from our carefully crafted menu to our warm, inviting atmosphere.
             </p>
           </motion.div>
         </div>

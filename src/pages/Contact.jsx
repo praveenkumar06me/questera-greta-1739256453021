@@ -68,11 +68,11 @@ export default function Contact() {
                 </div>
                 <div className="flex items-center space-x-3">
                   <FaEnvelope className="text-amber-600 h-5 w-5" />
-                  <span>info@cafedelight.com</span>
+                  <span>praveenkumar06me@gmail.com</span>
                 </div>
                 <div className="flex items-center space-x-3">
                   <FaMapMarkerAlt className="text-amber-600 h-5 w-5" />
-                  <span>123 Coffee Street, Brewtown, BT 12345</span>
+                  <span>West Bengal, India</span>
                 </div>
               </div>
             </div>
